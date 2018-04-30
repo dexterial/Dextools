@@ -1,7 +1,8 @@
 
-Dextools is an Excel addin for primarly unit and functional testing of VBA complex solutions, but has some extra functionality. It is still in prototype stage so use on your own risk.
+Dextools is an Excel addin for primarly unit and functional testing of VBA complex solutions, but has some extra functionality and some copyrighted modules.
+It is still in prototype stage so use on your own risk.
 
-    Copyright (C) <2018>  <Dexterial>
+    Copyright (C) 2018  Dexterial
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
