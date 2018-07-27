@@ -1,0 +1,24 @@
+{
+     "meta":{
+          "type":"FP",
+          "date":"2018-07-27T15.16.20.000Z",
+          "version":"001",
+          "encoding":"utf8"
+     },
+     "pages":{
+          "f":{
+               "headers":{
+                    "par":{
+                         "type":"Collection",
+                         "val":["row","_description","_index","hash","fullPath","rootDir","relativePath","parentPath","parentName","fullName","name","ext","typeFF","subfolders","files","type","size","dateCreated","dateAccessed","dateModified","attributes","full","outputDir","outputName","processed"]
+                    }
+               },
+               "rows":{
+                    "par":{
+                         "type":"Collection",
+                         "val":[]
+                    }
+               }
+          }
+     }
+}
