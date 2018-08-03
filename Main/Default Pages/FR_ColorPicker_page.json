@@ -1,7 +1,7 @@
 {
      "meta":{
           "type":"FR",
-          "date":"2018-07-27T15.17.42.000Z",
+          "date":"2018-08-03T20:16:55.000Z",
           "version":"001",
           "encoding":"utf8"
      },
@@ -108,22 +108,22 @@
                          "val":[{
                               "par":{
                                    "type":"Collection",
-                                   "val":[23,"","f_colPick","UserForm","VBProject","colPick","","","","","","colorPicker_Initialize%28frObj%2929","","","colPick",true,"",true,"","",380,786.75,338.25,520,"","","","",0,0,-2147483644,"",-2147483630,-2147483630,0,"","","Color+Extractor","","","","","","","","","","","","","","","","",14.25,"",""]
+                                   "val":[23,"","f_colPick","UserForm","VBProject","colPick","","","","","","%5B%22initModuleForm%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%22VBE_2%22%5D","","","colPick",true,"",true,"","",380,786.75,338.25,520,"","","","",0,0,-2147483644,"",-2147483630,-2147483630,0,"","","Color+Extractor","","","","","","","","","","","","","","","","",14.25,"",""]
                               }
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[24,"","f_colPick_0","Image","Forms.Image.1","colPick","colPick","","preview_grid%28frObj%2929","","","","","colPick_0","colPick_0",true,"",true,"","",50,0,0,100,"","",false,"",0,0,16711678,1,"",16711678,1,"","","","Click+to+extract+color+palette","","RES_4",0,3,"","","","","","","","","","","","","",""]
+                                   "val":[24,"","f_colPick_0","Image","Forms.Image.1","colPick","colPick","","%5B%22preview_grid%22%2C%7B%22sp%22%3A%22obj%22%7D%5D","","","","","colPick_0","colPick_0",true,"",true,"","",50,0,0,100,"","",false,"",0,0,16711678,1,"",16711678,1,"","","","Click+to+extract+color+palette","","RES_4",0,3,"","","","","","","","","","","","","",""]
                               }
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[25,"","f_colPick_1","Image","Forms.Image.1","colPick","colPick","","preview_point%28frObj%2CfrData%2929","","","","","colPick_1","colPick_1",true,"",true,"","",150,104,0,300,"","",false,"",0,0,16711678,1,"",16711678,1,"","","","Click+to+extract+the+color+at+position","","RES_4",0,3,"","","","","","","","","","","","","",""]
+                                   "val":[25,"","f_colPick_1","Image","Forms.Image.1","colPick","colPick","","%5B%22preview_point%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%7B%22sp%22%3A%22data%22%7D%5D","","","","","colPick_1","colPick_1",true,"",true,"","",150,104,0,300,"","",false,"",0,0,16711678,1,"",16711678,1,"","","","Click+to+extract+the+color+at+position","","RES_4",0,3,"","","","","","","","","","","","","",""]
                               }
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[26,"","f_colPick_2","Label","Forms.Label.1","colPick","colPick","","","","","","","colPick_2","colPick_2",true,"",true,"","",170,0,52,100,"","",false,"",0,0,16711150,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","","","",8.25,"",""]
+                                   "val":[26,"","f_colPick_2","Label","Forms.CommandButton.1","colPick","colPick","","","","","","","colPick_2","colPick_2",true,"",true,"","",170,0,52,100,"","",false,"",0,0,16711150,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","","","",8.25,"",""]
                               }
                          },{
                               "par":{
@@ -133,7 +133,7 @@
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[28,"","f_colPick_2_0_0","CheckBox","Forms.CheckBox.1","colPick","colPick_2_0","","","","","","","colPick_2_0_0","colPick_2_0_0",true,"",true,"",true,13.5,9,66,30,"",1,false,"",0,2,-2147483643,1,-2147483630,"","","",true,"rgb","","","","","","","","","","","","","",false,"","",8.25,"",""]
+                                   "val":[28,"","f_colPick_2_0_0","CheckBox","Forms.CheckBox.1","colPick","colPick_2_0","","","%5B%22resetSeletectedTemplate%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%22VBE_2%22%5D","","","","colPick_2_0_0","colPick_2_0_0",true,"",true,"",true,13.5,9,66,30,"",1,false,"",0,2,-2147483643,1,-2147483630,"","","",true,"rgb","","","","","","","","","","","","","",false,"","",8.25,"",""]
                               }
                          },{
                               "par":{
@@ -148,7 +148,7 @@
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[31,"","f_colPick_2_0_3","CheckBox","Forms.CheckBox.1","colPick","colPick_2_0","","","","","","","colPick_2_0_3","colPick_2_0_3",true,"",true,"",true,13.5,9,102,30,"",1,false,"",0,2,-2147483643,1,-2147483630,"","","",true,"hex","","","","","","","","","","","","","",false,"","",8.25,"",""]
+                                   "val":[31,"","f_colPick_2_0_3","CheckBox","Forms.CheckBox.1","colPick","colPick_2_0","","","%5B%22deleteStagePar%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%22inputs%22%5D","","","","colPick_2_0_3","colPick_2_0_3",true,"",true,"",true,13.5,9,102,30,"",1,false,"",0,2,-2147483643,1,-2147483630,"","","",true,"hex","","","","","","","","","","","","","",false,"","",8.25,"",""]
                               }
                          },{
                               "par":{
@@ -213,17 +213,17 @@
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[44,"","f_colPick_2_6","CommandButton","Forms.CommandButton.1","colPick","colPick_2","","","loadNewPic%28frObj%2929","","","","colPick_2_6","colPick_2_6",true,"",true,"",true,30,5,186,45,"","",false,"",0,"",15400598,1,-2147483630,"","","",false,"Change+++Picture","Change+picture+source","","","","","","","","","","","","",false,"","",8.25,"",true]
+                                   "val":[44,"","f_colPick_2_6","CommandButton","Forms.CommandButton.1","colPick","colPick_2","","","%5B%22loadNewPic%22%2C%7B%22sp%22%3A%22obj%22%7D%5D","","","","colPick_2_6","colPick_2_6",true,"",true,"",true,30,5,186,45,"","",false,"",0,"",15400598,1,-2147483630,"","","",false,"Change+++Picture","Change+picture+source","","","","","","","","","","","","",false,"","",8.25,"",true]
                               }
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[45,"","f_colPick_3","Label","Forms.Label.1","colPick","colPick","","","","","","","colPick_3","colPick_3",true,"",true,"","",70,104,152,300,"","",false,"",0,0,15790320,1,-2147483630,-2147483642,1,"","","+Preview+Color%28s%2929","","","","","","","","","","","","","","","","",8.25,"",""]
+                                   "val":[45,"","f_colPick_3","Label","Forms.Label.1","colPick","colPick","","","","","","","colPick_3","colPick_3",true,"",true,"","",70,104,152,300,"","",false,"",0,0,15790320,1,-2147483630,-2147483642,1,"","","+Preview+Color%28s%29","","","","","","","","","","","","","","","","",8.25,"",""]
                               }
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[46,"","f_colPick_3_0","Label","Forms.Label.1","colPick","colPick_3","","preview_result%28frObj%2CfrData%2929","","","","","colPick_3_0","colPick_3_0",true,"",true,"","",20,115,168,280,"","",false,"",0,0,-2147483643,1,-2147483630,16711678,1,"","","+","Click+to+extract+the+color+at+position","","","","","","","","","","","","","","","",9.75,"",""]
+                                   "val":[46,"","f_colPick_3_0","Label","Forms.Label.1","colPick","colPick_3","","%5B%22preview_result%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%7B%22sp%22%3A%22data%22%7D%5D","","","","","colPick_3_0","colPick_3_0",true,"",true,"","",20,115,168,280,"","",false,"",0,0,-2147483643,1,-2147483630,16711678,1,"","","+","Click+to+extract+the+color+at+position","","","","","","","","","","","","","","","",9.75,"",""]
                               }
                          },{
                               "par":{
@@ -248,22 +248,22 @@
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[51,"","f_colPick_5_0_0","TextBox","Forms.TextBox.1","colPick","colPick_5_0","","","","cp_decompose%28frObj%2C%22rgb%22%29","","","colPick_5_0_0","colPick_5_0_0",true,"",true,"","",16,415,33,27,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",3,"",8,"",""]
+                                   "val":[51,"","f_colPick_5_0_0","TextBox","Forms.TextBox.1","colPick","colPick_5_0","","","","%5B%22cp_decompose%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%22rgb%22%5D","","","colPick_5_0_0","colPick_5_0_0",true,"",true,"","",16,415,33,27,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",3,"",8,"",""]
                               }
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[52,"","f_colPick_5_0_1","TextBox","Forms.TextBox.1","colPick","colPick_5_0","","","","cp_decompose%28frObj%2C%22rgb%22%29","","","colPick_5_0_1","colPick_5_0_1",true,"",true,"","",16,442.5,33,27,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",3,"",8,"",""]
+                                   "val":[52,"","f_colPick_5_0_1","TextBox","Forms.TextBox.1","colPick","colPick_5_0","","","","%5B%22cp_decompose%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%22rgb%22%5D","","","colPick_5_0_1","colPick_5_0_1",true,"",true,"","",16,442.5,33,27,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",3,"",8,"",""]
                               }
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[53,"","f_colPick_5_0_2","TextBox","Forms.TextBox.1","colPick","colPick_5_0","","","","cp_decompose%28frObj%2C%22rgb%22%29","","","colPick_5_0_2","colPick_5_0_2",true,"",true,"","",16,470,33,27,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",3,"",8,"",""]
+                                   "val":[53,"","f_colPick_5_0_2","TextBox","Forms.TextBox.1","colPick","colPick_5_0","","","","%5B%22cp_decompose%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%22rgb%22%5D","","","colPick_5_0_2","colPick_5_0_2",true,"",true,"","",16,470,33,27,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",3,"",8,"",""]
                               }
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[54,"","f_colPick_5_0_3","TextBox","Forms.TextBox.1","colPick","colPick_5_0","","","","cp_decompose%28frObj%2C%22rgb_str%22%29","","","colPick_5_0_3","colPick_5_0_3",true,"",true,"","",16,415,51,82,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",1,"",8,"",""]
+                                   "val":[54,"","f_colPick_5_0_3","TextBox","Forms.TextBox.1","colPick","colPick_5_0","","","","%5B%22cp_decompose%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%22rgb%22%5D","","","colPick_5_0_3","colPick_5_0_3",true,"",true,"","",16,415,51,82,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",1,"",8,"",""]
                               }
                          },{
                               "par":{
@@ -288,7 +288,7 @@
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[59,"","f_colPick_5_1_3","TextBox","Forms.TextBox.1","colPick","colPick_5_1","","","","cp_decompose%28frObj%2C%22hls_str%22%29","","","colPick_5_1_3","colPick_5_1_3",true,"",true,"","",16,415,106,82,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",1,"",8,"",""]
+                                   "val":[59,"","f_colPick_5_1_3","TextBox","Forms.TextBox.1","colPick","colPick_5_1","","","","%5B%22cp_decompose%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%22hls_str%22%5D","","","colPick_5_1_3","colPick_5_1_3",true,"",true,"","",16,415,106,82,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",1,"",8,"",""]
                               }
                          },{
                               "par":{
@@ -313,37 +313,37 @@
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[64,"","f_colPick_5_2_3","TextBox","Forms.TextBox.1","colPick","colPick_5_2","","","","cp_decompose%28frObj%2C%22hsv_str%22%29","","","colPick_5_2_3","colPick_5_2_3",true,"",true,"","",16,415,161,82,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",1,"",8,"",""]
+                                   "val":[64,"","f_colPick_5_2_3","TextBox","Forms.TextBox.1","colPick","colPick_5_2","","","","%5B%22cp_decompose%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%22hsv_str%22%5D","","","colPick_5_2_3","colPick_5_2_3",true,"",true,"","",16,415,161,82,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",1,"",8,"",""]
                               }
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[65,"","f_colPick_5_3","Label","Forms.Label.1","colPick","colPick_5","","","","","","","colPick_5_3","colPick_5_3",true,"",true,"","",50,411,184,90,"","",false,"",0,0,-2147483643,1,-2147483630,-2147483642,1,"","","H+E+X+%28R+G+B%2929","","","","","","","","","","","","","","",2,"",8.25,"",""]
+                                   "val":[65,"","f_colPick_5_3","Label","Forms.Label.1","colPick","colPick_5","","","","","","","colPick_5_3","colPick_5_3",true,"",true,"","",50,411,184,90,"","",false,"",0,0,-2147483643,1,-2147483630,-2147483642,1,"","","H+E+X+%28R+G+B%29","","","","","","","","","","","","","","",2,"",8.25,"",""]
                               }
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[66,"","f_colPick_5_3_0","TextBox","Forms.TextBox.1","colPick","colPick_5_3","","","","cp_decompose%28frObj%2C%22hex%22%29","","","colPick_5_3_0","colPick_5_3_0",true,"",true,"","",16,415,198,27,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",3,"",8,"",""]
+                                   "val":[66,"","f_colPick_5_3_0","TextBox","Forms.TextBox.1","colPick","colPick_5_3","","","","%5B%22cp_decompose%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%22hex%22%5D","","","colPick_5_3_0","colPick_5_3_0",true,"",true,"","",16,415,198,27,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",3,"",8,"",""]
                               }
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[67,"","f_colPick_5_3_1","TextBox","Forms.TextBox.1","colPick","colPick_5_3","","","","cp_decompose%28frObj%2C%22hex%22%29","","","colPick_5_3_1","colPick_5_3_1",true,"",true,"","",16,442.5,198,27,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",3,"",8,"",""]
+                                   "val":[67,"","f_colPick_5_3_1","TextBox","Forms.TextBox.1","colPick","colPick_5_3","","","","%5B%22cp_decompose%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%22hex%22%5D","","","colPick_5_3_1","colPick_5_3_1",true,"",true,"","",16,442.5,198,27,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",3,"",8,"",""]
                               }
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[68,"","f_colPick_5_3_2","TextBox","Forms.TextBox.1","colPick","colPick_5_3","","","","cp_decompose%28frObj%2C%22hex%22%29","","","colPick_5_3_2","colPick_5_3_2",true,"",true,"","",16,470,198,27,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",3,"",8,"",""]
+                                   "val":[68,"","f_colPick_5_3_2","TextBox","Forms.TextBox.1","colPick","colPick_5_3","","","","%5B%22cp_decompose%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%22hex%22%5D","","","colPick_5_3_2","colPick_5_3_2",true,"",true,"","",16,470,198,27,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",3,"",8,"",""]
                               }
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[69,"","f_colPick_5_3_3","TextBox","Forms.TextBox.1","colPick","colPick_5_3","","","","cp_decompose%28frObj%2C%22hex_str%22%29","","","colPick_5_3_3","colPick_5_3_3",true,"",true,"","",16,415,216,82,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",1,"",8,"",""]
+                                   "val":[69,"","f_colPick_5_3_3","TextBox","Forms.TextBox.1","colPick","colPick_5_3","","","","%5B%22cp_decompose%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%22hex_str%22%5D","","","colPick_5_3_3","colPick_5_3_3",true,"",true,"","",16,415,216,82,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",1,"",8,"",""]
                               }
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[70,"","f_colPick_5_4","Label","Forms.Label.1","colPick","colPick_5","","","","","","","colPick_5_4","colPick_5_4",true,"",true,"","",50,411,239,90,"","",false,"",0,0,-2147483643,1,-2147483630,-2147483642,1,"","","F+R+M+%28B+G+R+%2929","","","","","","","","","","","","","","",2,"",8.25,"",""]
+                                   "val":[70,"","f_colPick_5_4","Label","Forms.Label.1","colPick","colPick_5","","","","","","","colPick_5_4","colPick_5_4",true,"",true,"","",50,411,239,90,"","",false,"",0,0,-2147483643,1,-2147483630,-2147483642,1,"","","F+R+M+%28B+G+R+%29","","","","","","","","","","","","","","",2,"",8.25,"",""]
                               }
                          },{
                               "par":{
@@ -368,27 +368,27 @@
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[75,"","f_colPick_5_5","Label","Forms.Label.1","colPick","colPick_5","","","","","","","colPick_5_5","colPick_5_5",true,"",true,"","",50,411,294,90,"","",false,"",0,0,-2147483643,1,-2147483630,-2147483642,1,"","","V+B+A+%28R+G+B+%2929","","","","","","","","","","","","","","",2,"",8.25,"",""]
+                                   "val":[75,"","f_colPick_5_5","Label","Forms.Label.1","colPick","colPick_5","","","","","","","colPick_5_5","colPick_5_5",true,"",true,"","",50,411,294,90,"","",false,"",0,0,-2147483643,1,-2147483630,-2147483642,1,"","","V+B+A+%28R+G+B+%29","","","","","","","","","","","","","","",2,"",8.25,"",""]
                               }
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[76,"","f_colPick_5_5_0","TextBox","Forms.TextBox.1","colPick","colPick_5_5","","","","cp_decompose%28frObj%2C%22rgb%22%29","","","colPick_5_5_0","colPick_5_5_0",true,"",true,"","",16,415,308,27,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",3,"",8,"",""]
+                                   "val":[76,"","f_colPick_5_5_0","TextBox","Forms.TextBox.1","colPick","colPick_5_5","","","","%5B%22cp_decompose%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%22rgb%22%5D","","","colPick_5_5_0","colPick_5_5_0",true,"",true,"","",16,415,308,27,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",3,"",8,"",""]
                               }
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[77,"","f_colPick_5_5_1","TextBox","Forms.TextBox.1","colPick","colPick_5_5","","","","cp_decompose%28frObj%2C%22rgb%22%29","","","colPick_5_5_1","colPick_5_5_1",true,"",true,"","",16,442.5,308,27,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",3,"",8,"",""]
+                                   "val":[77,"","f_colPick_5_5_1","TextBox","Forms.TextBox.1","colPick","colPick_5_5","","","","%5B%22cp_decompose%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%22rgb%22%5D","","","colPick_5_5_1","colPick_5_5_1",true,"",true,"","",16,442.5,308,27,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",3,"",8,"",""]
                               }
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[78,"","f_colPick_5_5_2","TextBox","Forms.TextBox.1","colPick","colPick_5_5","","","","cp_decompose%28frObj%2C%22rgb%22%29","","","colPick_5_5_2","colPick_5_5_2",true,"",true,"","",16,470,308,27,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",3,"",8,"",""]
+                                   "val":[78,"","f_colPick_5_5_2","TextBox","Forms.TextBox.1","colPick","colPick_5_5","","","","%5B%22cp_decompose%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%22rgb%22%5D","","","colPick_5_5_2","colPick_5_5_2",true,"",true,"","",16,470,308,27,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",3,"",8,"",""]
                               }
                          },{
                               "par":{
                                    "type":"Collection",
-                                   "val":[79,"","f_colPick_5_5_3","TextBox","Forms.TextBox.1","colPick","colPick_5_5","","","","cp_decompose%28frObj%2C%22vba%22%29","","","colPick_5_5_3","colPick_5_5_3",true,"",true,"","",16,415,326,82,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",1,"",8,"",""]
+                                   "val":[79,"","f_colPick_5_5_3","TextBox","Forms.TextBox.1","colPick","colPick_5_5","","","","%5B%22cp_decompose%22%2C%7B%22sp%22%3A%22obj%22%7D%2C%22vba%22%5D","","","colPick_5_5_3","colPick_5_5_3",true,"",true,"","",16,415,326,82,"","",false,"",3,2,-2147483643,1,-2147483630,-2147483642,1,"","","","","","","","","","","","","","","","","",1,"",8,"",""]
                               }
                          }]
                     }
